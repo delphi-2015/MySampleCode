@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  CustomTransition-Swift
+//  KTColor
 //
-//  Created by 张星宇 on 16/2/7.
+//  Created by 张星宇 on 16/2/14.
 //  Copyright © 2016年 zxy. All rights reserved.
 //
 
@@ -12,8 +12,7 @@ import UIKit
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
-    var mainViewController: ViewController?
-    var rootNavigationViewController: UINavigationController?
+
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
         // Override point for customization after application launch.
